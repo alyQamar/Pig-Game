@@ -1,10 +1,10 @@
 # Pig-Game
 
 <h1 align="center">
-    <img src="img/app.jpeg"/>
+    <img src="img/app.png"/>
 </h1>
 
-[Live Demo](https://alyqamar.github.io/Bankist/) 
+[Live Demo](https://alyqamar.github.io/Pig-Game) 
 -----
 ## Built With
 * HTML
